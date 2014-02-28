@@ -1,0 +1,15 @@
+{
+  "name": "go-to-spec",
+  "main": "./lib/go-to-spec",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": ["go-to-spec:toggle"],
+  "repository": "https://github.com/atom/go-to-spec",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
